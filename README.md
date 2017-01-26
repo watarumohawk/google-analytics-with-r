@@ -1,1 +1,1 @@
-# google-analytics-with-r
+# Google Analytics with R
